@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android112Quiz</string>
+    <string name="txtWelcom">ようこそ</string>
+    <string name="btnStart">Start</string>
+    <string name="hiScore">現在のハイスコア：</string>
+    <string name="btnCancel">CANCEL</string>
+    <string name="btnOk">OK</string>
+    <string name="playerName">Playerの名前を入力してください</string>
+    <string name="questionStr">ダミーダミー</string>
+    <string name="userSetting">ユーザー名設定・はこちら</string>
+    <string name="qIndexStr" />
+    <string name="highScoreStr">"HighScore : "</string>
+</resources>
